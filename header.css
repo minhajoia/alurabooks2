@@ -24,3 +24,19 @@
   .container__titulo {
     display: none;
   }
+  @media screen and (min-width: 1024px) {
+    /* Código omitido */
+  
+    .opções {
+      display: flex;
+    }
+  }
+  @media screen and (min-width: 1024px) {
+    /* Código omitido */
+  
+    .opções_item {
+      padding: 0 1em;
+      text-transform: uppercase;
+    }
+  }
+  
